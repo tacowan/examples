@@ -5,7 +5,7 @@ code examples for articles
 
 
 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://channel9.msdn.com/Shows/Azure-Friday/Azure-IoT-Hub/player)
+[![Alt text for your video](iothubvideo.PNG)](https://channel9.msdn.com/Shows/Azure-Friday/Azure-IoT-Hub/player)
 
 <h2>end</h2>
 
